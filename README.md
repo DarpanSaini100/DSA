@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/DarpanSaini100/DSA/tree/master/0636-exclusive-time-of-functions) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/DarpanSaini100/DSA/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/DarpanSaini100/DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
