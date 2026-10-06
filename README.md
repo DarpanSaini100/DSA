@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0636-exclusive-time-of-functions](https://github.com/DarpanSaini100/DSA/tree/master/0636-exclusive-time-of-functions) |
+| [0856-score-of-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DarpanSaini100/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DarpanSaini100/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DarpanSaini100/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DarpanSaini100/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -167,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/DarpanSaini100/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DarpanSaini100/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
